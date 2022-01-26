@@ -1,1 +1,1 @@
-# kairoAlpha-calamares-config
+# Alci Calamares config - no desktop
